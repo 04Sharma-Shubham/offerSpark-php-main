@@ -98,7 +98,7 @@
                         <h3 class="offer-title">Dell XPS 13 Laptop</h3>
                         <p class="offer-description">High-performance laptop with latest specs</p>
                         <span class="discount-badge">30% OFF</span>
-                        <a href="#" class="btn">Grab Deal</a>
+                        <a href="https://www.flipkart.com/dell-xps-13-intel-core-i7-8th-gen-8550u-16-gb-512-gb-ssd-windows-10-home-9370-thin-light-laptop/p/itm84f7344355f99?pid=COMF7AQAY7FVCX5Z&lid=LSTCOMF7AQAY7FVCX5ZXCACBN&marketplace=FLIPKART&store=6bo%2Fb5g&srno=b_1_2&otracker=browse&fm=organic&iid=54b088c3-112c-47b3-b48c-1a398a515634.COMF7AQAY7FVCX5Z.SEARCH&ppt=None&ppn=None&ssid=4ieke4awfk0000001760721973172" class="btn">Grab Deal</a>
                     </div>
                 </div>
                 <div class="offer-card fade-in" data-category="fashion">
@@ -107,7 +107,7 @@
                         <h3 class="offer-title">Nike Air Max Shoes</h3>
                         <p class="offer-description">Comfortable and stylish sneakers</p>
                         <span class="discount-badge">25% OFF</span>
-                        <a href="#" class="btn">Grab Deal</a>
+                        <a href="https://www.nike.com/in/w/air-max-shoes-a6d8hzy7ok" class="btn">Grab Deal</a>
                     </div>
                 </div>
                 <div class="offer-card fade-in" data-category="travel">
@@ -116,7 +116,7 @@
                         <h3 class="offer-title">Goa Beach Resort</h3>
                         <p class="offer-description">Luxury stay with ocean view</p>
                         <span class="discount-badge">40% OFF</span>
-                        <a href="#" class="btn">Grab Deal</a>
+                        <a href="https://www.makemytrip.com/hotels/hotel-listing/?locusId=CTGOI&locusType=city&city=CTGOI&searchText=Goa&filterData=MERGE_PROPERTY_TYPE|Resort&regionNearByExp=3&country=IN&reference=hotel&type=city&cmp=SEM|D|DH|G|Destination|DH_Destination_CTGOI_Goa|CTGOI_Resort|RSA|&mf_source=google&mf_medium=cpc&mf_campaignid=19486083027&cid=CjwKCAjw0sfHBhB6EiwAQtv5qdJ0TQI8rQopQSHXQQuW0x-xkgZosky4CNLvD3pCs2TEw0ZZvHgBuBoCz5gQAvD_BwE&pl=&kw=goa%20beach%20resort&adg=150173791892&aid=643917575646&campaign_type=search&device=c&mf_campaign={HARDCODE_CAMPAIGN_NAME}&gad_source=1&gad_campaignid=19486083027&gbraid=0AAAAAD5Az1RBDJUQQsI9Hcexj9OYOkukm&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qdJ0TQI8rQopQSHXQQuW0x-xkgZosky4CNLvD3pCs2TEw0ZZvHgBuBoCz5gQAvD_BwE" class="btn">Grab Deal</a>
                     </div>
                 </div>
                 <div class="offer-card fade-in" data-category="finance">
@@ -125,7 +125,7 @@
                         <h3 class="offer-title">HDFC Credit Card</h3>
                         <p class="offer-description">Zero annual fee for first year</p>
                         <span class="discount-badge">Free</span>
-                        <a href="#" class="btn">Apply Now</a>
+                        <a href="https://applyonline.hdfcbank.com/cards/credit-cards.html?CHANNELSOURCE=ZETA&LGCode=MKTG&mc_id=hdfcbank_ccntb_paid_search_brand_ntb_unified&utm_source=paid_search_ntb&utm_medium=search&utm_campaign=CC-ACQ-HDFC_CC_Retail_Google_Search_Leads_NTB_br_super_brand&utm_content=Marketing&utm_creative=generic-rupay-ltf&utm_term=Hdfc%20Credit%20Card&p_id=&gad_source=1&gad_campaignid=22025037751&gbraid=0AAAAAD74LQbIvVxYBrc_jd4eB_Q57ug9Y&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qYFNAmcqZ9ATiscNAVLnrwNhPf-ELDH4B8tqPO1bDhkawPYyanmvDhoCkz4QAvD_BwE#nbb" class="btn">Apply Now</a>
                     </div>
                 </div>
                 <div class="offer-card fade-in" data-category="education">
@@ -134,7 +134,7 @@
                         <h3 class="offer-title">Udemy Web Development Course</h3>
                         <p class="offer-description">Complete course on modern web dev</p>
                         <span class="discount-badge">50% OFF</span>
-                        <a href="#" class="btn">Enroll Now</a>
+                        <a href="https://www.udemy.com/topic/web-development/?srsltid=AfmBOoqQ91TXejmezNxnpy5GtRASXqhDu13TnjaRo2bv2tXvte25utoO" class="btn">Enroll Now</a>
                     </div>
                 </div>
                 <div class="offer-card fade-in" data-category="home">
@@ -143,7 +143,7 @@
                         <h3 class="offer-title">Kitchen Appliances Set</h3>
                         <p class="offer-description">Essential gadgets for modern kitchen</p>
                         <span class="discount-badge">35% OFF</span>
-                        <a href="#" class="btn">Shop Now</a>
+                        <a href="https://www.flipkart.com/search?q=kitchen%20appliance&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" class="btn">Shop Now</a>
                     </div>
                 </div>
                 <div class="offer-card fade-in" data-category="tech">
@@ -152,7 +152,7 @@
                         <h3 class="offer-title">Samsung Galaxy S23</h3>
                         <p class="offer-description">Latest smartphone with amazing camera</p>
                         <span class="discount-badge">20% OFF</span>
-                        <a href="#" class="btn">Buy Now</a>
+                        <a href="https://www.amazon.in/Samsung-Galaxy-Ultra-Phantom-Storage/dp/B0BT9FDZ8N/ref=sr_1_2?crid=GY6O7SXX44EW&dib=eyJ2IjoiMSJ9.K0txcR4_2nW0YPcJMgjsa4AvvyRn-HJhsqmJhdHEU9JSA_KoYmfUWcFzsTeTdza2Ie0ceMwsLreFT7b_m-yH8jswAlGatLtovN5bA-9AnVUKoIkNLTI2i5JRbRw3QUfHaoee1vH-0jbi5FkFlQWaFPSUVceVGJ-R2H4chOobICXI8DNRkchYF83Y1_AKNhA8HRT3d4FP4U1L29_zkl-ypYJLsI4aguzKrctXAkn_mjo.rslJYfJRmACjFoMuTeQeLZYugPYpHmAKT2i_jsT4XwM&dib_tag=se&keywords=galaxy+s23&qid=1760720698&sprefix=galaxy+s2%2Caps%2C257&sr=8-2" class="btn">Buy Now</a>
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@
                         <span class="stat">10% Commission</span>
                         <span class="stat">Global Reach</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Join Now</a>
+                    <a href="https://affiliate-program.amazon.in/" class="btn btn-rainbow">Join Now</a>
                 </div>
                 <div class="affiliate-card fade-in">
                     <div class="card-header">
@@ -193,7 +193,7 @@
                         <span class="stat">200% Commission</span>
                         <span class="stat">Monthly Payouts</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Learn More</a>
+                    <a href="https://www.shopify.com/in/partners" class="btn btn-rainbow">Learn More</a>
                 </div>
                 <div class="affiliate-card fade-in">
                     <div class="card-header">
@@ -208,7 +208,7 @@
                         <span class="stat">30% Commission</span>
                         <span class="stat">Lifetime Cookies</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Start Earning</a>
+                    <a href="https://www.udemy.com/affiliate/" class="btn btn-rainbow">Start Earning</a>
                 </div>
                 <div class="affiliate-card fade-in">
                     <div class="card-header">
@@ -223,7 +223,7 @@
                         <span class="stat">8% Commission</span>
                         <span class="stat">Instant Payouts</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Partner With Us</a>
+                    <a href="https://partner.booking.com/en-us" class="btn btn-rainbow">Partner With Us</a>
                 </div>
                 <div class="affiliate-card fade-in">
                     <div class="card-header">
@@ -238,7 +238,7 @@
                         <span class="stat">Up to 6%</span>
                         <span class="stat">Wide Selection</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Get Started</a>
+                    <a href="https://partnernetwork.ebay.com/" class="btn btn-rainbow">Get Started</a>
                 </div>
                 <div class="affiliate-card fade-in">
                     <div class="card-header">
@@ -253,7 +253,7 @@
                         <span class="stat">8% Commission</span>
                         <span class="stat">Worldwide Market</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Join Program</a>
+                    <a href="https://portals.aliexpress.com/affiportals/web/portals.htm#/home" class="btn btn-rainbow">Join Program</a>
                 </div>
                 <div class="affiliate-card fade-in">
                     <div class="card-header">
@@ -268,7 +268,7 @@
                         <span class="stat">Up to 12%</span>
                         <span class="stat">Local Focus</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Start Now</a>
+                    <a href="https://affiliate.flipkart.com/" class="btn btn-rainbow">Start Now</a>
                 </div>
                 <div class="affiliate-card fade-in">
                     <div class="card-header">
@@ -283,7 +283,7 @@
                         <span class="stat">10% Commission</span>
                         <span class="stat">Fashion Focus</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Partner Up</a>
+                    <a href="https://www.myntra.com/affiliates-program" class="btn btn-rainbow">Partner Up</a>
                 </div>
             </div>
         </div>

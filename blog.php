@@ -51,7 +51,7 @@
                         <span class="category">Technology</span>
                         <span class="read-time">5 min read</span>
                     </div>
-                    <a href="#" class="btn btn-rainbow">Read Full Article</a>
+                    <a href="https://techmitra.in/best-laptops-under-50000-india-2025/" class="btn btn-rainbow">Read Full Article</a>
                 </div>
             </div>
         </div>
@@ -66,37 +66,37 @@
                     <i class="fas fa-laptop"></i>
                     <h3>Technology</h3>
                     <p>Gadgets, laptops, and tech deals</p>
-                    <a href="#" class="btn">View Posts</a>
+                    <a href="categories.php?cat=tech" class="btn">View Posts</a>
                 </div>
                 <div class="category-card fade-in">
                     <i class="fas fa-plane"></i>
                     <h3>Travel</h3>
                     <p>Travel tips and booking deals</p>
-                    <a href="#" class="btn">View Posts</a>
+                    <a href="categories.php?cat=travel" class="btn">View Posts</a>
                 </div>
                 <div class="category-card fade-in">
                     <i class="fas fa-graduation-cap"></i>
                     <h3>Education</h3>
                     <p>Online courses and learning</p>
-                    <a href="#" class="btn">View Posts</a>
+                    <a href="categories.php?cat=education" class="btn">View Posts</a>
                 </div>
                 <div class="category-card fade-in">
                     <i class="fas fa-tshirt"></i>
                     <h3>Fashion</h3>
                     <p>Style guides and fashion deals</p>
-                    <a href="#" class="btn">View Posts</a>
+                    <a href="categories.php?cat=fashion" class="btn">View Posts</a>
                 </div>
                 <div class="category-card fade-in">
                     <i class="fas fa-credit-card"></i>
                     <h3>Finance</h3>
                     <p>Credit cards and money tips</p>
-                    <a href="#" class="btn">View Posts</a>
+                    <a href="categories.php?cat=finance" class="btn">View Posts</a>
                 </div>
                 <div class="category-card fade-in">
                     <i class="fas fa-home"></i>
                     <h3>Home & Garden</h3>
                     <p>Home improvement deals</p>
-                    <a href="#" class="btn">View Posts</a>
+                    <a href="categories.php?cat=home" class="btn">View Posts</a>
                 </div>
             </div>
         </div>
@@ -116,7 +116,7 @@
                             <span class="date">March 12, 2024</span>
                             <span class="category">Finance</span>
                         </div>
-                        <a href="#" class="btn">Read More</a>
+                        <a href="https://www.paisabazaar.com/credit-card/travel-credit-cards/" class="btn">Read More</a>
                     </div>
                 </div>
                 <div class="blog-post fade-in">
@@ -128,7 +128,7 @@
                             <span class="date">March 10, 2024</span>
                             <span class="category">Education</span>
                         </div>
-                        <a href="#" class="btn">Read More</a>
+                        <a href="https://careerfoundry.com/en/blog/career-change/best-online-learning-platforms/" class="btn">Read More</a>
                     </div>
                 </div>
                 <div class="blog-post fade-in">
@@ -140,7 +140,7 @@
                             <span class="date">March 8, 2024</span>
                             <span class="category">Technology</span>
                         </div>
-                        <a href="#" class="btn">Read More</a>
+                        <a href="https://gadgets.beebom.com/mobile-deals" class="btn">Read More</a>
                     </div>
                 </div>
                 <div class="blog-post fade-in">
@@ -152,7 +152,7 @@
                             <span class="date">March 5, 2024</span>
                             <span class="category">Fashion</span>
                         </div>
-                        <a href="#" class="btn">Read More</a>
+                        <a href="https://blog.myntra.com/" class="btn">Read More</a>
                     </div>
                 </div>
                 <div class="blog-post fade-in">
@@ -164,7 +164,7 @@
                             <span class="date">March 3, 2024</span>
                             <span class="category">Business</span>
                         </div>
-                        <a href="#" class="btn">Read More</a>
+                        <a href="https://onlinemediamasters.com/how-to-make-money-with-affiliate-marketing/" class="btn">Read More</a>
                     </div>
                 </div>
                 <div class="blog-post fade-in">
@@ -176,7 +176,7 @@
                             <span class="date">March 1, 2024</span>
                             <span class="category">Home & Garden</span>
                         </div>
-                        <a href="#" class="btn">Read More</a>
+                        <a href="https://www.urbanladder.com/?srsltid=AfmBOoo3lE9aMsx0UzB4dSFRp2cUCUkO8wzNltG2b6947swKU1i7HJVB" class="btn">Read More</a>
                     </div>
                 </div>
             </div>
