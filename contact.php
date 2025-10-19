@@ -55,7 +55,7 @@
                 </div>
                 <div class="contact-info">
                     <h3 style="text-align: center; margin-bottom: 20px;">Get in touch</h3>
-                    <p style="text-align: center;"><strong>Email:</strong> contact@offerspark.com</p>
+                    <p style="text-align: center;"><strong>Email:</strong> Felixemark@theofferspark.com</p>
                     <div class="social-links" style="display: flex; justify-content: center; gap: 15px;">
                         <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
                         <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>

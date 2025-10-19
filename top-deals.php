@@ -100,7 +100,7 @@
             <div style="background: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 10px; color: white;">
                     <h2>Flash Sale!</h2>
                     <p>Up to 20% off on selected items. Limited stock!</p>
-                    <a href="https://www.amazon.in/events/greatindianfestival" class="btn btn-green">Shop Now</a>
+                    <a href="https://www.amazon.com.au" class="btn btn-green">Shop Now</a>
                 </div>
             </div>
         </div>

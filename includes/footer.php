@@ -27,7 +27,7 @@
                 </div>
                 <div class="footer-section">
                     <h3>Contact Us</h3>
-                    <p>📧 contact@offerspark.com</p>
+                    <p>📧 Felixemark@theofferspark.com</p>
                     <div class="social-links">
                         <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
                         <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
